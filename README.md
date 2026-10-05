@@ -37,7 +37,7 @@ RGM: 47962241* <br>
 https://maps.app.goo.gl/pjqxhT2Ltq6g1c2D7?g_st=ac
 
 - **Foto do local e da visita:**
-(images/foto-local.jpg)
+![Foto retirada no salão do restaurante](images/foto-local.jpg)
 
 ---
 
