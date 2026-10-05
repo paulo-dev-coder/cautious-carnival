@@ -29,6 +29,9 @@ RGM: 47880414*
   <br>
 RGM: 47962241*
 
+## Link do dicionário de dados em HTML
+- https://paulo-dev-coder.github.io/sistema-restaurante-brmw/
+
 ## 1. Caracterização da Organização
 *(vale 7,5% — Dimensão Conceitual)*
 
