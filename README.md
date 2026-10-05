@@ -16,13 +16,18 @@
 - *Alessa Araújo Ctvrtnik
   <br>
 RGM: 49508610*
-*João Vitor Mendes Almeida
-RGM: 49744453* <br>
-*Matheus Ferreira da Silva 
-RGM: 47903520* <br>
-Otávio Teixeira Lopes da Silva RGM: 47880414 <br>
-*Paulo Sergio Olivastro
-RGM: 47962241* <br>
+- *João Vitor Mendes Almeida
+  <br>
+RGM: 49744453*
+- *Matheus Ferreira da Silva
+  <br>
+RGM: 47903520*
+- *Otávio Teixeira Lopes da Silva
+  <br>
+RGM: 47880414*
+- *Paulo Sergio Olivastro
+  <br>
+RGM: 47962241*
 
 ## 1. Caracterização da Organização
 *(vale 7,5% — Dimensão Conceitual)*
