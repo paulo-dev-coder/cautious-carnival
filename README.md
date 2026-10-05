@@ -33,10 +33,10 @@ RGM: 47962241* <br>
 
 - **Evidências da organização:** A existência e o acesso à organização são comprovados pelos registros abaixo.
 
-Link público no Google Maps (Google Meu Negócio):
+- **Link público no Google Maps (Google Meu Negócio):**
 https://maps.app.goo.gl/pjqxhT2Ltq6g1c2D7?g_st=ac
 
-Foto do local e da visita:
+- **Foto do local e da visita:**
 https://foto-do-local.edgeone.dev/
 
 ---
