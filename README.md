@@ -14,7 +14,8 @@
 ## Metadados
 
 - *Alessa Araújo Ctvrtnik
-RGM: 49508610*<br>
+  <br>
+RGM: 49508610*
 *João Vitor Mendes Almeida
 RGM: 49744453* <br>
 *Matheus Ferreira da Silva 
