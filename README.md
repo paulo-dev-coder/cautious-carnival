@@ -134,9 +134,6 @@ Abaixo estão as entidades e os atributos que aparecem no DER fornecido. Os iden
 |----------|-----------|------------------------------|
 | id_pessoa | Identificador da pessoa. | Deve identificar unicamente cada pessoa. |
 | nome | Nome da pessoa. | Necessário para identificação. |
-| num_cpf | CPF da pessoa. | Dado pessoal; confirmar necessidade de coleta e proteger o acesso. |
-| email | E-mail da pessoa. | Opcional, se necessário ao processo. |
-| data_nascimento | Data de nascimento. | Dado pessoal; confirmar necessidade de coleta. |
 
 **Entidade: Cliente**
 
@@ -171,6 +168,7 @@ Abaixo estão as entidades e os atributos que aparecem no DER fornecido. Os iden
 | data_hora_abertura | Data e hora da abertura. | Registrar no momento da criação. |
 | tipo_consumo | Modalidade de atendimento. | Indicar consumo no local ou retirada. |
 | identificador_mesa | Mesa associada ao pedido. | Aplicável ao consumo no local; não se aplica à retirada. |
+| status | Situação atual do pedido. | Deve registrar o histórico de estados do pedido. |
 
 **Entidade: Item_pedido**
 
