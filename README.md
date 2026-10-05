@@ -254,11 +254,11 @@ Os atributos identificadores são as chaves primárias indicadas pelo ponto pree
 
 | Entidade | Atributos do DER |
 |----------|------------------|
-| Pessoa | `id_pessoa` (identificador), `nome`, `num_cpf`, `email`, `data_nascimento` (descritivos/cadastrais). |
+| Pessoa | `id_pessoa` (identificador), `nome` (descritivos/cadastrais). |
 | Cliente | `id_cliente` (identificador), `data_cadastro` (cadastral). |
 | Funcionário | `id_funcionario` (identificador), `cargo`, `salario_base`, `status` (cadastrais/operacionais). |
 | Telefone | `id_telefone` (identificador), `numero`, `tipo_telefone`, `id_pessoa` (referência a Pessoa). |
-| Pedido | `id_pedido` (identificador), `data_hora_abertura`, `tipo_consumo`, `identificador_mesa` (operacionais). |
+| Pedido | `id_pedido` (identificador), `data_hora_abertura`, `tipo_consumo`, `identificador_mesa`, `status` (operacionais). |
 | Item_pedido | `id_item` (identificador), `quantidade`, `valor_aplicado`, `observacao` (atributos da linha do pedido). |
 | Produto | `id_produto` (identificador), `nome`, `descricao`, `preco`, `categoria`, `disponibilidade` (cadastrais/operacionais). |
 | Reserva_mesa | `id_reserva` (identificador), `data_hora`, `qnt_pessoas`, `status` (operacionais). |
